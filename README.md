@@ -75,13 +75,13 @@ After the head, there should be text saying the title of the page in very low op
 4.	A section should be there different from the background to contain all the contents of the directory shared
 
 #### Content-section:
-a.	3 section differentiated with single line [hint: use <hr> tag]
-b.	First Section: contains any link if present in the directory
-c.	Second Section: What the author wants to say about it and how is the link useful for the community
-d.	Third Section: Who’s the author and her/his details
+1.	3 section differentiated with single line [hint: use <hr> tag]
+2.	First Section: contains any link if present in the directory
+3.	Second Section: What the author wants to say about it and how is the link useful for the community
+4.	Third Section: Who’s the author and her/his details
 5.	Don’t forget to add footer
 
-***Note: Each subtask contains 1 point
+##### ***Note: Each subtask contains 1 point
  
 
 
