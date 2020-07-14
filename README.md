@@ -3,23 +3,27 @@
 
 This repository is to submit your pull request before contest ends.
 ###### copyright 2020, ACMJUIT | Team CWC.
-
+ACM JUIT website: https://juit.acm.org/
 # TASK WEEK-1
 ## CWC-3.0 Tasks Week 1 (35 Points)
-Project: ACM-JUIT Directories (We will think of a better name later)
-Main website: https://juit.acm.org/
-Section link (as planned): juit.acm.org/directory
+Project: CWC Directories
+
+Section link (as planned): cwc.org/directory
 Logo: Same as ACM-JUIT
-Project type: Blog like a section for the main site of ACM-JUIT. Consist of a single page with enlisted blog and their snippet linked to a page solely dedicated to that one blog
+
+Project type: Blog section for a website. Consist of a single page with enlisted blog and their snippet linked to a page solely dedicated to that one blog
 Pages to be created: One with a list and n pages for n blogs
+
 Key to this Guideline:
-{ Page, Section of the page you need to edit, Optional(marks
-won’t be deducted if this feature is not there) }
+{ Page, Section of the page you need to edit, Optional(marks won’t be deducted if this feature is not there) }
+
 Color Palette:  #2A2A2E(Darkslategrey), #1A84C2(Steel blue), #F9F8FF (Ghost white)
 Photos and Resources will be shared to you once your design is selected, till that part, stick to placeholder text and images wherever you need one. You’ll be provided with a folder where you will find all the required logos
+
 We highly suggest you to write your code robustly so that you can make changes in them if your website gets selected
 You need to stick to this guideline as much as possible, in case of any dispute or misunderstanding you shall ask the admin instantly
- 
+
+##### *** For Refrences and example you can visit official Website of ACM: https://juit.acm.org/
 
 
 
