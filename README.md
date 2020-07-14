@@ -8,7 +8,8 @@ ACM JUIT website: https://juit.acm.org/
 ## CWC-3.0 Tasks Week 1 (35 Points)
 Project: CWC Directories
 
-Section link (as planned): cwc.org/directory
+Section link (as planned): https://cwc.org/directory
+
 Logo: Same as ACM-JUIT
 
 Project type: Blog section for a website. Consist of a single page with enlisted blog and their snippet linked to a page solely dedicated to that one blog
@@ -18,6 +19,7 @@ Key to this Guideline:
 { Page, Section of the page you need to edit, Optional(marks won’t be deducted if this feature is not there) }
 
 Color Palette:  #2A2A2E(Darkslategrey), #1A84C2(Steel blue), #F9F8FF (Ghost white)
+
 Photos and Resources will be shared to you once your design is selected, till that part, stick to placeholder text and images wherever you need one. You’ll be provided with a folder where you will find all the required logos
 
 We highly suggest you to write your code robustly so that you can make changes in them if your website gets selected
