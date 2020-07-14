@@ -75,7 +75,7 @@ After the head, there should be text saying the title of the page in very low op
 4.	A section should be there different from the background to contain all the contents of the directory shared
 
 #### Content-section:
-1.	Three section differentiated with single line (hint: use <hr> tag)
+1.	Three section differentiated with single line (hint: use hr tag)
 2.	First Section: contains any link if present in the directory
 3.	Second Section: What the author wants to say about it and how is the link useful for the community
 4.	Third Section: Who’s the author and her/his details
