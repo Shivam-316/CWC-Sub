@@ -25,7 +25,7 @@ Photos and Resources will be shared to you once your design is selected, till th
 We highly suggest you to write your code robustly so that you can make changes in them if your website gets selected
 You need to stick to this guideline as much as possible, in case of any dispute or misunderstanding you shall ask the admin instantly
 
-##### *** For Refrences and example you can visit official Website of ACM: https://juit.acm.org/
+##### *** For References and example you can visit official Website of ACM: https://juit.acm.org/
 
 
 
