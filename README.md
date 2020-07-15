@@ -88,6 +88,12 @@ After the head, there should be text saying the title of the page in very low op
 5.	Don’t forget to add footer
 
 ##### ***Note: Each subtask contains 1 point
- 
+
+
+## ANNOUCEMENTS | UPDATES
+1. Main PAge add-on
+
+   Search box below heading to search among all the directories with auto-complete for Web, Graphic, Coding, Problem Solving and Miscellaneous 
+   [Hint: Check out materialize CSS docs]
 
 
