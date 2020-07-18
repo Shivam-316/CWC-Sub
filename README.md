@@ -96,8 +96,9 @@ After the head, there should be text saying the title of the page in very low op
    Search box below heading to search among all the directories with auto-complete for Web, Graphic, Coding, Problem Solving and Miscellaneous 
    [Hint: Check out materialize CSS docs]
 ## PRIZE (Winner only)
-1.JBL C100SI In-Ear Deep Bass Headphones with Mic (Black)
-2.CWC Custom Merchandise
+1. JBL C100SI In-Ear Deep Bass Headphones with Mic (Black)
+
+2. CWC Custom Merchandise
 
 *** *T&C: winner can choose anyone of the prize mentioned above.
 ##### For Participants
